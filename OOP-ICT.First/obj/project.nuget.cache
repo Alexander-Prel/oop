@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ik6ITK7xgQlph55h1k5MHVvOpQi5KmR8VfcEF5wIQBY7M7pw0t8O+37hhIz7cJc2IAXvrpAKBMaZdaGAbAroZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Рабочий стол\\ООП\\Alexander-Prel-master\\OOP-ICT.First\\OOP-ICT.First.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
